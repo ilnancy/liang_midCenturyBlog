@@ -1,0 +1,24 @@
+/* remember that style sheets cascade, so whatever is on the bottom will override whats on top. Don't have multiple statements for the same element. Organization and hierarchy are key, start with larger elements and work your way down.
+
+Do they best you can with this, talk with each other and help each other. Most colors and fonts are provided for you. Use adobe color to find the other colors from the sample image.*/
+
+body {
+    font-family: "Lato", sans-serif;
+  background-color: bisque;
+  color: #1010ff;
+  border: 1px solid black;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5px;
+}
+
+header {
+    margin-bottom: 100px;
+}
+
+footer {
+    border: 4px solid blue;
+}
+
+
+
