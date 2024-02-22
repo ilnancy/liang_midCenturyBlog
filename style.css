@@ -2,13 +2,9 @@
 
 Do they best you can with this, talk with each other and help each other. Most colors and fonts are provided for you. Use adobe color to find the other colors from the sample image.*/
 
-html {
-    background-color: #f29948;
-}
 
 body {
   font-family: "Lato", sans-serif;
-  width: 85%;
   background-color: bisque;
   color: #1010ff;
   border: 1px solid black;
@@ -17,19 +13,6 @@ body {
   padding: 5px;
 }
 
-.lato-regular {
-    font-family: "Lato", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
-.josefin-sans {
-    font-family: "Josefin sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-
-}
 
 nav {
     font-family: "Josefin Sans", sans-serif;
